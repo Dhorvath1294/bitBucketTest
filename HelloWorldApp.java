@@ -10,4 +10,8 @@ class HelloWorldApp {
     public void testFtn2() {
            
     }
+    
+    public void testFtn3() {
+       String s;    
+    }
 }
