@@ -6,4 +6,8 @@ class HelloWorldApp {
     public int addInt(int a, int b) {
         return a+b;
     }
+    
+    public int substractInt(int a, int b) {
+        return a-b;   
+    }
 }
